@@ -1,3 +1,3 @@
 # TableApp
 test project
-første Readme
+første Readme rettet
